@@ -3,9 +3,9 @@
 </h1>
 
 <p align="center">
-  <a href="https://reactjs.org/"><img src="https://img.shields.io/static/v1?label=react&message=16.13.1&color=blue&style=for-the-badge"/><a/>
-  <a href="https://www.typescriptlang.org/"><img src="https://img.shields.io/static/v1?label=typescript&message=3.7.2&color=blue&style=for-the-badge"/></a>
-  <a href="https://reactrouter.com/"><img src="https://img.shields.io/static/v1?label=react-router-dom&message=5.2.0&color=blue&style=for-the-badge"/><a/>
+  <a href="https://reactjs.org/"><img src="https://img.shields.io/static/v1?label=React&message=16.13.1&color=6807f9&style=flat"/><a/>
+  <a href="https://www.typescriptlang.org/"><img src="https://img.shields.io/static/v1?label=TypeScript&message=3.7.2&color=6807f9&style=flat"/></a>
+  <a href="https://reactrouter.com/"><img src="https://img.shields.io/static/v1?label=React-Router-Dom&message=5.2.0&color=6807f9&style=flat"/><a/>
 </p>
   
 > Status do Projeto: Em desenvolvimento. :warning:

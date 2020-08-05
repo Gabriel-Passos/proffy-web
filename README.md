@@ -38,8 +38,6 @@ Acesse o terminal, e clone o projeto com o seguinte comando:
 git clone https://github.com/Gabriel-Passos/proffy-web.git
 ```
 
-### Front-end
-
 - Com o projeto clonado e com o terminal aberto, precisamos instalar as dependências do projeto, portanto entre na pasta web e execute o seguinte comando:
 
 ```

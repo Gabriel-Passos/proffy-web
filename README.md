@@ -7,8 +7,6 @@
   <a href="https://www.typescriptlang.org/"><img src="https://img.shields.io/static/v1?label=TypeScript&message=3.7.2&color=blue&style=flat"/></a>
   <a href="https://reactrouter.com/"><img src="https://img.shields.io/static/v1?label=React-Router-Dom&message=5.2.0&color=blue&style=flat"/><a/>
 </p>
-  
-> Status do Projeto: Em desenvolvimento. :warning:
 
 ### Tópicos 
 
